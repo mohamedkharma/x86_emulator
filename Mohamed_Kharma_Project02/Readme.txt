@@ -17,6 +17,10 @@ Lastly,
 - User can navigate between months and different screens.
 - I worked on this project on my own and used the notes and google to learn and research everything written.
 
-One last thing, I spent a lot of time learning and doing this assignment. It was really challenging but 
-I tried my best. 
-Thank you!
+## Video Walkthrough
+
+Here's a walkthrough:
+
+<img src="Walkthrough2.gif" width=350>
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
