@@ -21,6 +21,6 @@ Lastly,
 
 Here's a walkthrough:
 
-<img src="testRun.gif" width=350>
+<img src="https://github.com/mohamedkharma/x86_emulator/blob/main/Mohamed_Kharma_Project02/testRun.gif" width=350>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
