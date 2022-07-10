@@ -1,0 +1,45 @@
+assume cs:code,ds:code
+code segment
+org 100h
+start:
+; CODE BEGIN
+
+
+MOV AX,963
+MOV CX,4323
+MOV DX,1963
+MOV BX,6565
+MOV AL,23
+MOV CH,54
+
+SUB AX,-7
+SUB AX,-77
+SUB BL,-8
+SUB BL,-99
+SUB BH,-9
+SUB BH,-99
+SUB DX,-7
+SUB CX,-3
+
+MOV AX,431
+ADD AX,224
+MOV BX,AX
+SUB BX,-8
+
+MOV AL,23
+MOV CH,54
+
+ADD AX,BX
+ADD AX,CX
+ADD AX,DX
+ADD AX,AX
+ADD BX,BX
+ADD BX,CX
+
+
+
+int 20h
+; CODE END
+code ends
+end start
+
