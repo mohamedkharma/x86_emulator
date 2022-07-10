@@ -1,4 +1,3 @@
-NAME: Mohamed Kharma
 Project 02
 
 In this assignment, we were asked to build a Calender. The way my Calender works is that it display a full 
