@@ -21,6 +21,6 @@ Lastly,
 
 Here's a walkthrough:
 
-<img src="Walkthrough2.gif" width=350>
+<img src="testRun.gif" width=350>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
